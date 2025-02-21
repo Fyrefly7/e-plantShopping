@@ -39,6 +39,10 @@ body {
    
 }
 
+.category-title {
+    text-align: center;
+}
+
 /* Product Grid */
 .product-grid {
     display:flex;
